@@ -8,7 +8,8 @@
 body {
   font-family: 'Noto Sans TC', sans-serif;
   /* 練習：把背景色改成你喜歡的顏色 */
-  background-color: #fdf6ec;
+  background: url('bg.png') no-repeat center center fixed;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
